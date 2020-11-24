@@ -11,7 +11,7 @@ public class ReverseString {
 			
 		}
 		System.out.println("reverse String= "+reverse );
-		//Check For Plaindrome
+		//Check For Plandrome
 		if(original.equals(reverse)) {
 		System.out.println("Given string is Palindrome");
 		}
