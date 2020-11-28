@@ -26,6 +26,10 @@ public class RemoveAnycharfromString {
 		String s2="Iamgood$Boy";
 		System.out.println(s2.replaceAll("[^a-zA-Z]",""));
 		
+		String sj="whatsurname";
+		
+		System.out.println(sj.substring(1,4));
+		
 				
 	}
 
