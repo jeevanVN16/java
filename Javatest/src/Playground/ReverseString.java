@@ -18,14 +18,6 @@ public class ReverseString {
 		else {
         System.out.println("Given string is not Palindrome");			
 		}
-		//test
-		//test2
-		//test3
-                // from tortise git abc rtrtr 
- // from tortise git abc rtrtr 
-		//6 dec comitt1
-		//commit 2
 	}
 
 }
-//chnaged
